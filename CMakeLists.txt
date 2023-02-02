@@ -3,4 +3,4 @@ project(DayOfWeekCalculator)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(DayOfWeekCalculator main.cpp)
+add_executable(DayOfWeekCalculator src/main.cpp)
